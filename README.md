@@ -7,6 +7,8 @@
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-WonYJ&layout=compact&theme=tokyonight)
   <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
+  <br>
   <h1>✨Front-end Stack✨</h1>
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
