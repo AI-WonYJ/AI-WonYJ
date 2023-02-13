@@ -9,6 +9,7 @@
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
   <br>
+  <!--
   <h1>✨Front-end Stack✨</h1>
 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -22,6 +23,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <br/>
+  -->
 </div>
 
 <!--
