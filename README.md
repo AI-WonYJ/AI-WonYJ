@@ -6,9 +6,9 @@
   ![AI-WonYJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI-WonYJ&show_icons=true&theme=tokyonight) 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-WonYJ&layout=compact&theme=tokyonight)
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
-  <br>
   [![trophy](https://github-profile-trophy.vercel.app/?username=AI-WonYJ&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
   <br>
   <!--
   <h1>✨Front-end Stack✨</h1>
