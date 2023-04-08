@@ -8,7 +8,7 @@
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
   <br>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=AI-WonYJ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AI-WonYJ&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
   <br>
   <!--
   <h1>✨Front-end Stack✨</h1>
