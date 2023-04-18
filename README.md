@@ -10,7 +10,6 @@
   <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
   <br>
-  <i class="devicon-arduino-plain-wordmark colored"></i>
   <br>
           
   <!--
