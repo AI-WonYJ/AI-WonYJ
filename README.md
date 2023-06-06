@@ -11,6 +11,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjason7587)](https://solved.ac/yjason7587)
   <br>
   <br>
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
           
   <!--
   <h1>✨Front-end Stack✨</h1>
