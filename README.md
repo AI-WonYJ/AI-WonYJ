@@ -4,8 +4,9 @@
   
 <div style="display: flex; align-items: flex-start;" align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <h1></h1>
 </div>
+  
+---
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-WonYJ&count_bg=%235078D2&title_bg=%23040404&icon=stackoverflow.svg&icon_color=%235078D2&title=hits&edge_flat=false)](https://github.com/AI-WonYJ)
   <br>
