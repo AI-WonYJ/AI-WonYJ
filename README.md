@@ -88,7 +88,7 @@
 ---
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   
-  ![footer](https://capsule-render.vercel.app/api?type=wave&color=0F4C81&height=200&section=footer&text=Have%20a%20Nice%20day!&fontSize=90)
+  ![footer](https://capsule-render.vercel.app/api?type=wave&color=658caf&height=200&section=footer&text=Have%20a%20Nice%20day!&fontSize=90)
   
 <!--
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div>
