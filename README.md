@@ -14,7 +14,7 @@
 
   <h2>☁️SNS List☁️</h2>
   
-    <a href="https://www.instagram.com/2erojean/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href="https://www.facebook.com/profile.php?id=100012469146600&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href="https://ai-wonyj.github.io/hw-3-_html/" target="_blank"><img src="https://img.shields.io/badge/Profile-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.instagram.com/2erojean/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a> <a href="https://www.facebook.com/profile.php?id=100012469146600&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></a> <a href="https://ai-wonyj.github.io/hw-3-_html/" target="_blank"><img src="https://img.shields.io/badge/Profile-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <br>
   <h2>📧Contact📧</h2>
     <p>Email: yjason7587@soongsil.ac.kr</p>
