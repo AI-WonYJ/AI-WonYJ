@@ -26,13 +26,17 @@
     <br>
     <h4>💡Language</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <br>
     <h4>💡Embedded</h4>
       <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+      <img src="https://img.shields.io/badge/esphome-000000?style=for-the-badge&logo=esphome&logoColor=white">
       <img src="https://img.shields.io/badge/raspberry%20pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+      <img src="https://img.shields.io/badge/kicad-314CB0?style=for-the-badge&logo=kicad&logoColor=white">
+      <img src="https://img.shields.io/badge/fritzing-F05650?style=for-the-badge&logo=fritzing&logoColor=black">
     <br>
     <h4>💡Backend</h4>
       <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -46,11 +50,12 @@
       <img src="https://img.shields.io/badge/anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> 
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> 
       <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
-      <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> 
       <img src="https://img.shields.io/badge/brackets-50bcdf?style=for-the-badge&logo=brackets&logoColor=white"> 
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
+      <img src="https://img.shields.io/badge/notepad++-90E59A?style=for-the-badge&logo=Notepadplusplus&logoColor=white"> 
+      <img src="https://img.shields.io/badge/tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white"> 
       <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
       <img src="https://img.shields.io/badge/diagramsdotnet-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"> 
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> 
     <br>
     <h4>💡Cowork Tools</h4>
       <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
@@ -60,7 +65,6 @@
     <br>
     <h4>💡Used at least once</h4>
       <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=jameson&logoColor=white"> 
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
       <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
