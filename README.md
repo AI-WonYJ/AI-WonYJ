@@ -38,12 +38,25 @@
 
 ---
 
-🏆 *2025.08.07 ~ 2025.08.13*: **2025 교내 연합 해커톤 UNITHON**  
+🏆 *2025.08.07 ~ 2025.08.13*: [**2025 교내 연합 해커톤 UNITHON**](https://www.instagram.com/p/DLERFP8SP3v/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)  
 🥉 우수상 – 스파르탄SW교육원 원장상
-- Project: [POOM (Protective Observation Of Motion)](https://github.com/Soongbang-Yeuijiguk)
+- Project: [POOM (Protective Observation Of Motion)](https://github.com/Soongbang-Yeuijiguk) (Wi-Fi Sensing 기반 스마트 병실 안전 모니터링 시스템)
 - Team: 숭방예의지국
 - Part: Project Manager · Embedded System · Business strategy
 - Organization: 숭실대학교 IT대학 학생회(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
+
+---
+
+## 🎤 Exhibition
+
+📢 *2025.08.13~2025.08.13* [**2025 교내 연합 해커톤 UNITHON**](https://www.instagram.com/p/DLERFP8SP3v/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)  
+
+- Project: [POOM (Protective Observation Of Motion)](https://github.com/Soongbang-Yeuijiguk) (Wi-Fi Sensing 기반 스마트 병실 안전 모니터링 시스템)
+- Organization : 숭실대학교 IT대학 학생회(주최), 숭실대학교 창업지원단·스파르탄SW교육원(주관)
+- Location : 숭실대학교 한경직기념관 김덕윤 예배실
+- Period : 2025.08.13~2025.08.13  
+  <img src="./images/POOM_exchibition.jpg" style="width:50%">  
+
 
 ---
 
