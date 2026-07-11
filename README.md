@@ -1,15 +1,9 @@
-<h1 align="center">Hi, I'm Youngjin Won 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2330F7&center=true&vCenter=true&width=435&lines=Embedded+%26+IoT+Developer" alt="Typing SVG" />
-</div>
-
----
+<h1 align="center">Youngjin Won</h1>
 
 ## 🏆 Prize
 
 🏆 *2025.12*: [**2025 제23회 임베디드 소프트웨어 경진대회**](https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%a3%bc%ec%9a%94%eb%89%b4%ec%8a%a4/?slug=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD%ED%8C%80-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-sw-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B8%88%EC%83%81&f=all&keyword=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD)  
-🥇 금상 – LG전자 CTO상
+**🥇 금상 – LG전자 CTO상**
 - Project: [SOOM (Sleep Observation & Optimization Module)](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019) (Wi-Fi Sensing 기반 비접촉 수면 감지 시스템)
 - Sector: [스마트 가전 부문](https://www.eswcontest.or.kr/competition/webos.php) (LG전자 후원)
 - Team: 동방예의지국
@@ -19,7 +13,7 @@
 ---
 
 🏆 *2025.08*: [**2025 교내 연합 해커톤 UNITHON**](https://www.instagram.com/p/DLERFP8SP3v/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)  
-🥉 우수상 – 스파르탄SW교육원 원장상
+**🥉 우수상 – 스파르탄SW교육원 원장상**
 - Project: [POOM (Protective Observation Of Motion)](https://github.com/Soongbang-Yeuijiguk) (Wi-Fi Sensing 기반 스마트 병실 안전 모니터링 시스템)
 - Team: 숭방예의지국
 - Part: Project Manager · Embedded System · Business strategy
@@ -32,7 +26,7 @@
 📢 *2025.12.03~05* [**2025 제23회 임베디드 소프트웨어 경진대회**](https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%a3%bc%ec%9a%94%eb%89%b4%ec%8a%a4/?slug=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD%ED%8C%80-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-sw-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B8%88%EC%83%81&f=all&keyword=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD)  
 
 - Project: [SOOM (Sleep Observation & Optimization Module)](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019) (Wi-Fi Sensing 기반 비접촉 수면 감지 시스템)
-- Location : 2025 코리아 테크 페스티벌 (삼성 코엑스)  
+- Location : 2025 코리아 테크 페스티벌  
   <img src="./images/SOOM_exchibition.jpg" style="width:50%" alt="Exhibition Photo">  
 
 ---
@@ -49,17 +43,10 @@
 
 | Period | Project | Description | Stack & Role |
 | :--- | :--- | :--- | :--- |
-| 2025.12<br>~ 2026.03 | [**SSCC Web Page**](https://app.sscc-ssu.com) | **동아리 웹 페이지**<br>2026 신입 부원 모집 페이지 | `On-premise`<br>👑 **PM**, Infra |
-| 2025.03<br>~ 2025.09 | [**SSCCtal**](https://github.com/SSCC-Library)<br>*(Club Library System)* | **동아리 도서 대여 키오스크**<br>바코드 스캔 및 대여 현황 웹 대시보드 | `ESP32` `Websocket`<br>👑 **PM**, Kiosk System |
-
----
-
-## 🧸 Toy Project
-
-| Period | Project | Description | Stack & Role |
-| :--- | :--- | :--- | :--- |
-| 2022.07<br>~ present | [**SSCCounter**](https://github.com/SoongSilComputingClub/SSCCounter)<br>*(Indoor Occupancy Counter)* | **동아리방 이용자 수 확인 시스템**<br>YOLOv3 기반 실시간 인원 카운팅 | `Python` `YOLOv3`<br>👑 **FullStack** |
-| 2022.11<br>~ 2022.12 | [**Smart-Home System**](https://github.com/AI-WonYJ/Smart-Home)<br>*(Smart Home System)* | **스마트홈 시스템**<br>센서 데이터 대시보드 및 가전 제어 | `Arduino` `C++`<br>👑 **FullStack** |
+| 2022.07<br>~ present | [**SSCCounter**](https://github.com/SoongSilComputingClub/SSCCounter)<br>*(Indoor Occupancy Counter)* | **동아리방 이용자 수 확인 시스템**<br>YOLOv8 기반 실시간 인원 카운팅 | `Python` `YOLOv8`<br>**FullStack** |
+| 2025.12<br>~ 2026.03 | [**SSCC Web Page**](https://app.sscc-ssu.com) | **동아리 웹 페이지**<br>2026 신입 부원 모집 페이지 | `On-premise`<br>**PM**, Infra |
+| 2025.03<br>~ 2025.09 | [**SSCCtal**](https://github.com/SSCC-Library)<br>*(Club Library System)* | **동아리 도서 대여 키오스크**<br>바코드 스캔 및 대여 현황 웹 대시보드 | `ESP32` `Websocket`<br>**PM**, Kiosk System |
+| 2022.11<br>~ 2022.12 | [**Smart-Home System**](https://github.com/AI-WonYJ/Smart-Home) | **스마트홈 시스템**<br>센서 데이터 대시보드 및 가전 제어 | `Arduino` `C++`<br>**FullStack** |
 
 ---
 
