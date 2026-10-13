@@ -2,6 +2,16 @@
 
 ## 🏆 Prize
 
+🏆 *2026.10*: [**DevDay Exchange Community Hackathon:Seoul**](https://luma.com/f7h7onav?tk=X1NZVk)  
+**🥇 Track2 – 1위**
+- Project: [VIDEX (VIsion + coDEX)](https://github.com/kimssammwu/videx) (시각장애인·저시력자를 위한 AI 시각보조 스마트 안경)
+- Sector: ​Track 2. AI for Human Life — 일상을 바꾸는 AI
+- Team: 생일파티
+- Part: Hardware & Embedded System
+- Organization: Codex Ambassador (행사 총괄), BITAmin·프로메테우스·가짜연구소(공동 주관 커뮤니티), OpenAI·AWS·Monster Energy(스폰서)
+
+---
+
 🏆 *2025.12*: [**2025 제23회 임베디드 소프트웨어 경진대회**](https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%a3%bc%ec%9a%94%eb%89%b4%ec%8a%a4/?slug=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD%ED%8C%80-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-sw-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EA%B8%88%EC%83%81&f=all&keyword=%EB%8F%99%EB%B0%A9%EC%98%88%EC%9D%98%EC%A7%80%EA%B5%AD)  
 **🥇 금상 – LG전자 CTO상**
 - Project: [SOOM (Sleep Observation & Optimization Module)](https://github.com/Dongbang-Yeuijiguk/2025ESWContest_smart_3019) (Wi-Fi Sensing 기반 비접촉 수면 감지 시스템)
